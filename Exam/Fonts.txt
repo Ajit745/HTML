@@ -1,0 +1,7 @@
+Theme-color Code :
+
+1. Light Blue : #1F6E8C
+2. Dark Blue : #0E2954
+3. Black : #000000
+4. White : #ffffff
+5. Button Gradient : #1F6E8C, #0E2954
