@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Summer Festival';
+    src: url('SummerFestival.woff2') format('woff2'),
+        url('SummerFestival.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

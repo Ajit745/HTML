@@ -1,0 +1,8 @@
+Theme-color Code :
+
+1. Dark Blue : #010d4f
+2. Black : #000000
+3. White : #ffffff
+4. Yellow : #F0DE36
+5. Sky Blue : #2b99cc
+6. Background Gradient : #000000, #000000b6
